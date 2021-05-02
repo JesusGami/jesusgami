@@ -8,6 +8,6 @@ Skills: Python 🐍, SQL 🆔, Excel📉, PowerBI📊
 - 🌱 I’m currently learning mathematics behind the data science algorithms in order to apply them to my future projects. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jesusgami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jesusgamino//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jesusgami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jesusgamino//)  
 
 ![Profile views](https://gpvc.arturio.dev/jesusgami)  
