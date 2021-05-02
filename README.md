@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Jesús Gamiño
+Currently a **research assistant** at C3 (Centro de Ciencias de la Complejidad) UNAM.
+And **teaching assistant** at Facultad de Ciencias for Databases 9123.
 
-<!--
-**JesusGami/jesusgami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python 🐍, SQL 🆔, Excel📉, PowerBI📊
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page to share my knowlegde about Data Analysis and Data Science. 
+- 🌱 I’m currently learning mathematics behind the data science algorithms in order for apply them to my future projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jesusgami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jesusgamino//)  
+
+![Profile views](https://gpvc.arturio.dev/jesusgami)  
