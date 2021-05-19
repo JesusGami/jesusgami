@@ -2,7 +2,7 @@
 Currently a **research assistant** at C3 (Centro de Ciencias de la Complejidad) UNAM.
 And **teaching assistant** at Facultad de Ciencias for Databases 9123.
 
-Skills: Python 🐍, SQL 🆔, Excel📉, PowerBI📊
+Software Skills: Python 🐍, SQL 🆔, Excel📉, PowerBI📊
 
 - 🔭 I’m currently working on this page to share my knowlegde about Data Analysis and Data Science. 
 - 🌱 I’m currently learning mathematics behind the data science algorithms in order to apply them to my future projects. 
