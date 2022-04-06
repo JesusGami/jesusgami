@@ -2,7 +2,6 @@
 
 Currently a **research assistant** at C3 (Centro de Ciencias de la Complejidad) UNAM.
 
-And **teaching assistant** at Facultad de Ciencias for Databases 9123.
 
 Software Skills: Python 🐍, SQL 🆔, Excel📉, PowerBI📊
 
